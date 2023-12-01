@@ -1,0 +1,3 @@
+/Users/davidaguirre/Documents/C++/Triangulo_bueno/cmake-build-debug/CMakeFiles/Triangulo.dir
+/Users/davidaguirre/Documents/C++/Triangulo_bueno/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidaguirre/Documents/C++/Triangulo_bueno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
